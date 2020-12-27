@@ -8,6 +8,8 @@ I created this as I was following along a course on [Udemy](https://www.udemy.co
 
 __Features I added:__
 - Button to determine winner
+
    Tutorial would have to refresh the page  
 - Linked the javascript function to that button
+
    To make it more user friendly  
